@@ -27,3 +27,7 @@ function miniMaxSum(arr) {
 const numbers = [1, 7, 10, 13, 8]
 
 miniMaxSum(numbers);
+
+// My comments:
+// With this exercise i was able to remember how to use "Math.max" and "Math.min" to get the highest and lowest number on the array.
+// Besides that, i was able to use HOF's, such as reduce
